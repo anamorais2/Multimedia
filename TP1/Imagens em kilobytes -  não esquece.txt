@@ -1,0 +1,4 @@
+Imagens em kilobytes -  não esquecer de converter
+Imagem | Qualidade | Taxa de compreesão | Análise qualitativa
+			dimensão da imagem original em kilobytes/ dimensão da imagem comprimida em kilobytes
+airport   75			10:1
